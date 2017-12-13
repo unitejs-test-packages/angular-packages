@@ -3,6 +3,7 @@
 ## UniteJS Operations
 
 * unite configure --profile=AngularJavaScript/AngularTypeScript
+* unite package --packageName=lodash
 * unite package --packageName=moment
 
 ## Build Operations
