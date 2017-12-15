@@ -5,6 +5,7 @@
 * unite configure --profile=AngularJavaScript/AngularTypeScript
 * unite package --packageName=lodash
 * unite package --packageName=moment
+* unite package --packageName=rxjs
 * unite package --packageName=underscore
 
 ## Build Operations
